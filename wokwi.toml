@@ -1,0 +1,4 @@
+[chips]
+max30102 = "max30102/max30102.chip.json"
+mlx90614 = "mlx90614/mlx90614.chip.json"
+sim900a = "sim900a/sim900a.chip.json"

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "custom:max30102": "github:belhadjessghaiertaha/Brassard-connect-montage/max30102",
+    "custom:mlx90614": "github:belhadjessghaiertaha/Brassard-connect-montage/mlx90614",
+    "custom:sim900a": "github:belhadjessghaiertaha/Brassard-connect-montage/sim900a"
+  },
+  "parts": [
+    {
+      "id": "esp",
+      "type": "wokwi-esp32-devkit-v1",
+      "top": 50,
+      "left": 50
+    },
+    {
+      "id": "max",
+      "type": "custom:max30102",
+      "top": 100,
+      "left": 200
+    },
+    {
+      "id": "mlx",
+      "type": "custom:mlx90614",
+      "top": 150,
+      "left": 200
+    },
+    {
+      "id": "sim",
+      "type": "custom:sim900a",
+      "top": 200,
+      "left": 200
+    }
+  ]
+}
