@@ -1,0 +1,11 @@
+{
+  "name": "SIM900A",
+  "author": "Your Name",
+  "pins": [
+    "VCC",
+    "GND",
+    "TXD",
+    "RXD"
+  ],
+  "chip": "sim900a.chip.c"
+}
