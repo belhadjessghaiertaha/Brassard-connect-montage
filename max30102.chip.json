@@ -1,0 +1,11 @@
+{
+  "name": "MAX30102",
+  "author": "Your Name",
+  "pins": [
+    "VCC",
+    "GND",
+    "SCL",
+    "SDA"
+  ],
+  "chip": "max30102.chip.c"
+}
