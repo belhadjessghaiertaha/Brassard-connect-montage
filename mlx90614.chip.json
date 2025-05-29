@@ -1,0 +1,10 @@
+{
+  "name": "MLX90614",
+  "pins": [
+    { "name": "GND", "type": "power" },
+    { "name": "VCC", "type": "power" },
+    { "name": "SDA", "type": "i2c" },
+    { "name": "SCL", "type": "i2c" }
+  ],
+  "chip": "mlx90614.chip.c"
+}
